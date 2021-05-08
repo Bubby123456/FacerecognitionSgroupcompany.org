@@ -1,0 +1,13 @@
+.heading {
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+    letter-spacing: 10px;
+}
+#camera,#result{
+    border: 3px;
+    border-style: dotted;
+    border-color: yellow;
+    width: 350px;
+    height: 320px;
+}
